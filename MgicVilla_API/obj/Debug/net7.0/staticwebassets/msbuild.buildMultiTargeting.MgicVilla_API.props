@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MgicVilla_API.props" />
+</Project>
